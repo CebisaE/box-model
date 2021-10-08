@@ -5,7 +5,7 @@
 }
 body {
   font-family: cursive;
-  background-color:purple;
+  background-image: url(FLAG.jpg);
   font-size: x-large;
 }
 .main {
@@ -19,7 +19,7 @@ body {
   border-radius: 5px;
   margin: 2%;
   grid-template-columns: repeat(2, 1fr);
-  background-color: green;
+  background-image: url(SA.jpg);
 }
 
 .image img {
@@ -62,10 +62,16 @@ button:hover {
   cursor: pointer;
 }
 button{
-  background-color:blue;
+  background-color:white;
   border-color: royalblue;
   border-radius: 25%;
 }
 .p b {
   font-size:50px
+}
+.header {
+font-weight: bold;
+font-size: 80px;
+text-align: center;
+
 }
