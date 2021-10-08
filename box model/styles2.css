@@ -71,7 +71,7 @@ button{
 }
 .header {
 font-weight: bold;
-font-size: 80px;
+font-size: 100px !important;
 text-align: center;
 
 }
