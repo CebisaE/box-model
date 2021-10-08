@@ -4,11 +4,9 @@
   padding:0px;
 }
 body {
-  font-family: arial;
-  background-image:url('saflag.jpeg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size:cover ;
+  font-family: cursive;
+  background-color:purple;
+  font-size: x-large;
 }
 .main {
   margin: 2%;
@@ -21,6 +19,7 @@ body {
   border-radius: 5px;
   margin: 2%;
   grid-template-columns: repeat(2, 1fr);
+  background-color: green;
 }
 
 .image img {
@@ -66,4 +65,7 @@ button{
   background-color:blue;
   border-color: royalblue;
   border-radius: 25%;
+}
+.p b {
+  font-size:50px
 }
